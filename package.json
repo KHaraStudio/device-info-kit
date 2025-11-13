@@ -1,0 +1,9 @@
+{
+  "name": "device-info-kit",
+  "version": "1.0.0",
+  "description": "Simple module to get CPU, RAM, Storage, and OS info. ",
+  "main": "index.js",
+  "type": "module",
+  "author": "KHara Developer",
+  "license": "MIT"
+}
